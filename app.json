@@ -1,0 +1,12 @@
+{
+  "name": "contact",
+  "displayName": "contact",
+  "expo": {
+    "name": "contact",
+    "slug": "contact",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
